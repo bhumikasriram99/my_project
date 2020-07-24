@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\contact-create",
+    "\\src\\app\\contact-list",
+    "\\src\\app\\footer",
+    "\\src\\app\\header",
+    "\\src\\app\\home"
+  ],
+  "SelectedNode": "\\src\\app\\contact-create\\contact-create.component.ts",
+  "PreviewInSolutionExplorer": false
+}
